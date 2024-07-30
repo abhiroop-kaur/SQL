@@ -1,2 +1,2 @@
-# sql
+# SQL
 music directory management
